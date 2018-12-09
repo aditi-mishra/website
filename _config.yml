@@ -40,12 +40,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+  
 
 author:
   name   : "Aditi Mishra"
   avatar : "/assets/images/bio-photo.jpg"
-   bio    : "Hello everyone."
+   bio    : "My awesome biography constrained to a sentence or two goes here."
    email :  # optional
   uri    : "https://github.com/aditi-mishra"
 # Exclude from processing.
