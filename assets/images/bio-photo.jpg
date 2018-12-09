@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>mm-remote-theme-test/bio-photo.jpg at master · mmistakes/mm-remote-theme-test</title>
+  <title>mm-remote-theme-test/assets/images at master · mmistakes/mm-remote-theme-test</title>
     <meta name="description" content="Minimal Mistakes remote theme GitHub Pages test. Contribute to mmistakes/mm-remote-theme-test development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/1376749?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="mmistakes/mm-remote-theme-test" /><meta property="og:url" content="https://github.com/mmistakes/mm-remote-theme-test" /><meta property="og:description" content="Minimal Mistakes remote theme GitHub Pages test. Contribute to mmistakes/mm-remote-theme-test development by creating an account on GitHub." />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzQ3NTg2MDk1Ojk2MmJkYTJhYzdmNGYzOGJhYzMyMzMyOGZjZGEwM2YwMzVlNmIzMDc0OTEyZDQ2OWVkY2YzNTNjZDYwYjkxZjg=--8775e3a82a3b162faf81ed3359b90624bfad3e5a">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzQ3NTg2MDk1OjgzZDg5NjRlYTM4NDI1ZWRhMmU1MWI5ODg4NmRiNTNjNGE3NjIxNTIxYzJjNzA3NzZlMWI5YmVlOGE4MGQ3ZTE=--2cbdfa270041d5277d25effd52b701693743d635">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="879A:7198:675268:C2B5A9:5C0D4A44" data-pjax-transient>
+  <meta name="request-id" content="D9BE:5A66:597F97:88277D:5C0D4D36" data-pjax-transient>
 
 
   
@@ -52,8 +52,8 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="879A:7198:675268:C2B5A9:5C0D4A44" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="22412621" /><meta name="octolytics-actor-login" content="aditi-mishra" /><meta name="octolytics-actor-hash" content="65fbd2bb40b53c86ccc8c86c1206f2f75171daef580852349a811884fc34b2e8" />
-<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D9BE:5A66:597F97:88277D:5C0D4D36" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="22412621" /><meta name="octolytics-actor-login" content="aditi-mishra" /><meta name="octolytics-actor-hash" content="65fbd2bb40b53c86ccc8c86c1206f2f75171daef580852349a811884fc34b2e8" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate" data-pjax-transient="true" />
 
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="aditi-mishra">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZTVkZTk4ODM4NTU2OWEwNThhNDhmNzA1NmIzNWM4NjI5MzY4ZmYxNmEzNTQyZGZhZTliOTQ3OWI4NWIwYTMyOHx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTAyLjkwLjE0OSIsInJlcXVlc3RfaWQiOiI4NzlBOjcxOTg6Njc1MjY4OkMyQjVBOTo1QzBENEE0NCIsInRpbWVzdGFtcCI6MTU0NDM3NDg1NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ODEzOTdiMjM5ZDQyN2M4ZWViYzkyNzAzMjhhYjI1ZTZiNjIxMDYxMTIxMzQ0MTk2ZWQzYjJhMjQ2OTY3Y2ExMXx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTAyLjkwLjE0OSIsInJlcXVlc3RfaWQiOiJEOUJFOjVBNjY6NTk3Rjk3Ojg4Mjc3RDo1QzBENEQzNiIsInRpbWVzdGFtcCI6MTU0NDM3NTYxNiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,TIMELINE_COMMENT_UPDATES,ISSUE_TEMPLATES_PIONEER,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="1376749" /><meta name="octolytics-dimension-user_login" content="mmistakes" /><meta name="octolytics-dimension-repository_id" content="109891186" /><meta name="octolytics-dimension-repository_nwo" content="mmistakes/mm-remote-theme-test" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="109891186" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mmistakes/mm-remote-theme-test" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/mmistakes/mm-remote-theme-test/blob/master/assets/images/bio-photo.jpg" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/mmistakes/mm-remote-theme-test/tree/master/assets/images" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -105,7 +105,7 @@
 
   </head>
 
-  <body class="logged-in env-production page-blob">
+  <body class="logged-in env-production">
     
 
   <div class="position-relative js-header-wrapper ">
@@ -155,7 +155,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=lzDtQ6xz9oBmQLiFbrp+eJx4nqZkVaYrLXvM923tZTA0tYX93oMeRmZHFU98c2glbSRrV1ZDCa98ysRZqOUW6w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=PKTzqlkLb3kmyaOTWv6+oSVp2PKqAQSMtw8WRDt0+RafIZsUK/uHvybODllIN6j81DUtA5gXqwjmvh7q/nyKzQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -375,7 +375,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fvZbYZ20+lEfKZfEVZouPUuD2NK3uG6F/7bMdN+pdj+NcvRL08BJZmnRdbIuE+umuPyC9fVGi/gUA/1bSAIfdw==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vG8+eJ9RaKUaXDUXDAsdv/6sNZfS2xjb2OHQOmJOwA5P65FS0SXbkmyk12F3gtgkDdNvsJAl/aYzVOEV9eWpRg==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -388,7 +388,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8MtBxUZB/nQGK6o28NoZrwa/GwVuj/JxBtTh9UBZ9fwDT+7vCDVNQ3DTSECLU9w09cBBIixxFwztYdDa1/KctA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="K+RPJpdZ/aditLIkIxLk0Qtg1/548+YrRoGjETn/e+nYYOAM2S1OkBRMUFJYmyFK+B+N2ToNA1atNJI+rlQSoQ==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -423,8 +423,6 @@
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <div id="js-repo-pjax-container" data-pjax-container >
       
-
-
   
 
 
@@ -435,10 +433,10 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/NAO2Gkrr7ijSlOvnNs1AGUNiUk/xWqxXZe2SwC96zrq7f1eVbxCN5SpDUiKYgxfZJ1tLiSJWOD1u8NLtydQmg==" />      <input type="hidden" name="repository_id" id="repository_id" value="109891186" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DB4F7rPFATkt943gjuJtuOf9zzwjs5qCC1x0oZXiDNgaI/Zoj1LsthoU0weYW1Tn5m0rWzj/qNOjcAGhIni3eA==" />      <input type="hidden" name="repository_id" id="repository_id" value="109891186" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
+        <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:files#disambiguate">
           <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
@@ -510,13 +508,13 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/mmistakes/mm-remote-theme-test/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cuoOdK+1G0LfykPsDvvaJcXzQinKe8G4QXBvg4wtn7SKz64uqDR6JS1gD4FfQ5XqOyk9VWIPAUjxLQZCP+ue3A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/mmistakes/mm-remote-theme-test/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XT34/US16O3yrUu1TVacIx6+G3dRDZREjDPMOMhZYbSlGFinQzSJigAHB9gc7tPs4GRkC/l5VLQ8bqX5e59g3A==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar mmistakes/mm-remote-theme-test"
-        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        data-ga-click="Repository, click unstar button, action:files#disambiguate; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
@@ -525,13 +523,13 @@
           6
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/mmistakes/mm-remote-theme-test/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="thE3sXI6U1yYAqz1ihtWK12xSfou0B5CS5j2kkWT4x10Ur4/RBYngiUNqZ8nHl5bhmc871BipXnUatkH8Febwg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/mmistakes/mm-remote-theme-test/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+Z8PTQZrYSxme5Ov/Qc39qk8QE026BgYw7aqnSWFTeE73IbDMEcV8tt0lsVQAj+Gcuo1WEhaoyNcRIUIkEE1Pg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star mmistakes/mm-remote-theme-test"
-        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        data-ga-click="Repository, click star button, action:files#disambiguate; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
@@ -544,11 +542,11 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/mmistakes/mm-remote-theme-test/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vnLqy2DwQBAhgxM1mxQ0FjSKYd+6rVyPswRc5aELVs5PXMx4nnpES7YXr3d1/HigWP7I5suQer4uNwuLRcHG0Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/mmistakes/mm-remote-theme-test/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BZm4Jas1Ckj0540dH0EilBZvpEJ7p3rhcAaPspS8cCv0t56WVb8OE2NzMV/xqW4iehsNewqaXNDtNdjccHbgNA==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
-                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
+                data-ga-click="Repository, show fork modal, action:files#disambiguate; text:Fork"
                 title="Fork your own copy of mmistakes/mm-remote-theme-test to your account"
                 aria-label="Fork your own copy of mmistakes/mm-remote-theme-test to your account">
               <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
@@ -613,16 +611,8 @@
 
     
     
-
-  
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mmistakes/mm-remote-theme-test/blob/81cd8f3c4549725fb3eba5fbff55c554e6d70ca6/assets/images/bio-photo.jpg">Permalink</a>
-
-    <!-- blob contrib key: blob_contributors:v21:9e8e9dcabcd384ac4f4316f6e60c65a3 -->
-
+  <div class="file-navigation">
     
-
-    <div class="file-navigation">
-      
 <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
   <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     
@@ -661,7 +651,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/mmistakes/mm-remote-theme-test/blob/master/assets/images/bio-photo.jpg"
+               href="/mmistakes/mm-remote-theme-test/tree/master/assets/images"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -688,78 +678,116 @@
   </div>
 </div>
 
-      <div class="BtnGroup float-right">
-        <a href="/mmistakes/mm-remote-theme-test/find/master"
-              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
-              data-pjax
-              data-hotkey="t">
-          Find file
-        </a>
-        <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
-          Copy path
-        </clipboard-copy>
-      </div>
-      <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/mm-remote-theme-test"><span>mm-remote-theme-test</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/mm-remote-theme-test/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/mm-remote-theme-test/tree/master/assets/images"><span>images</span></a></span><span class="separator">/</span><strong class="final-path">bio-photo.jpg</strong>
-      </div>
-    </div>
-
-
-    <include-fragment src="/mmistakes/mm-remote-theme-test/contributors/master/assets/images/bio-photo.jpg" class="commit-tease commit-loader">
-      <div>
-        Fetching contributors&hellip;
-      </div>
-
-      <div class="commit-tease-contributors">
-          <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
-
-
-    <div class="file ">
-      <div class="file-header">
-  <div class="file-actions">
-
-
-    <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/mmistakes/mm-remote-theme-test/raw/master/assets/images/bio-photo.jpg">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/mmistakes/mm-remote-theme-test/commits/master/assets/images/bio-photo.jpg">History</a>
-    </div>
-
-
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/mmistakes/mm-remote-theme-test/delete/master/assets/images/bio-photo.jpg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="12ZTpnr7hzU9gqJqhcebafhsmlJRzJnQmrRsHYQplfUVSzXLN83UM9riJwGjty3jWlkJgk2F0yeimmXivEuZ2w==" />
-          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Fork this project and delete the file" data-disable-with>
-            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-          </button>
-</form>  </div>
-
-  <div class="file-info">
-    1.62 KB
-  </div>
-</div>
-
+    <div class="BtnGroup float-right">
       
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-form" action="/mmistakes/mm-remote-theme-test/new/master/assets/images" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="b4w2tIPk1sYJGOo5WhYiZssFBrolmpGXVDAVsSRfuuqWzr1aqftii9hJyhNKjQ903iB8QmP/u2MJKXPIDT7zcw==" />
+    <button class="btn btn-sm BtnGroup-item" type="submit" data-disable-with="Creating file…">
+      Create new file
+    </button>
+</form>
 
-  <div itemprop="text" class="blob-wrapper data type-text ">
-      <div class="image">
-          <span class="border-wrap"><img src="/mmistakes/mm-remote-theme-test/blob/master/assets/images/bio-photo.jpg?raw=true" alt="bio-photo.jpg"></span>
-      </div>
-  </div>
+        <a href="/mmistakes/mm-remote-theme-test/upload/master/assets/images" class="btn btn-sm BtnGroup-item">
+          Upload files
+        </a>
 
+      <a href="/mmistakes/mm-remote-theme-test/find/master" data-pjax data-hotkey="t" class="js-pjax-capture-input btn btn-sm BtnGroup-item empty-icon">
+        Find file
+      </a>
+      <a href="/mmistakes/mm-remote-theme-test/commits/master/assets/images" class="btn btn-sm BtnGroup-item empty-icon tooltipped tooltipped-nw" aria-label="Browse commits for this branch">
+        History
+      </a>
     </div>
+    <div class="breadcrumb"><span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/mm-remote-theme-test"><span>mm-remote-theme-test</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/mm-remote-theme-test/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><strong class="final-path">images</strong><span class="separator">/</span></div>
+  </div>
 
   
 
-  <details class="details-reset details-overlay details-overlay-dark">
-    <summary data-hotkey="l" aria-label="Jump to line"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
-        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button type="submit" class="btn" data-close-dialog>Go</button>
-</form>    </details-dialog>
-  </details>
+
+  <div class="commit-tease js-details-container Details d-flex rounded-top-1" data-issue-and-pr-hovercards-enabled>
+    
+<div class="AvatarStack flex-self-start ">
+  <div class="AvatarStack-body" aria-label="mmistakes">
+
+        <a class="avatar" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1376749" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mmistakes">
+          <img height="20" width="20" alt="@mmistakes" src="https://avatars1.githubusercontent.com/u/1376749?s=60&amp;v=4" />
+</a>  </div>
+</div>
+
+    <div class="flex-auto f6 mr-3">
+      
+      <a href="/mmistakes/mm-remote-theme-test/commits?author=mmistakes"
+     class="commit-author tooltipped tooltipped-s user-mention"
+     aria-label="View all commits by mmistakes">mmistakes</a>
+
+
+  
+
+
+        <a data-pjax="true" title="Add bio image" class="message" href="/mmistakes/mm-remote-theme-test/commit/74cad9f37e8f467abb65a58f011db49a706ad591">Add bio image</a>
+
+    </div>
+    <div class="no-wrap">
+      Latest commit
+      <a class="commit-tease-sha" href="/mmistakes/mm-remote-theme-test/commit/74cad9f37e8f467abb65a58f011db49a706ad591" data-pjax>
+        74cad9f
+      </a>
+      <span itemprop="dateModified"><relative-time datetime="2017-11-07T21:16:59Z">Nov 8, 2017</relative-time></span>
+    </div>
+  </div>
+
+
+
+<div class="file-wrap">
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mmistakes/mm-remote-theme-test/tree/81cd8f3c4549725fb3eba5fbff55c554e6d70ca6/assets/images">Permalink</a>
+
+  <table class="files js-navigation-container js-active-navigation-container" data-pjax>
+    <thead>
+      <tr>
+        <th><span class="sr-only">Type</span></th>
+        <th><span class="sr-only">Name</span></th>
+        <th><span class="sr-only">Latest commit message</span></th>
+        <th><span class="sr-only">Commit time</span></th>
+      </tr>
+    </thead>
+      <tr class="up-tree js-navigation-item">
+        <td></td>
+        <td><a rel="nofollow" title="Go to parent directory" class="js-navigation-open" href="/mmistakes/mm-remote-theme-test/tree/master/assets">..</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+
+
+    <tbody>
+      <tr class="warning include-fragment-error">
+        <td class="icon"><svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg></td>
+        <td class="content" colspan="3">Failed to load latest commit information.</td>
+      </tr>
+
+        <tr class="js-navigation-item">
+          <td class="icon">
+            <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
+            <img width="16" height="16" class="spinner" alt="" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a class="js-navigation-open" title="bio-photo.jpg" id="e71e25ee88ed80f3f4e406781353c1a5-000845179832190a64352439f621bb797d05f826" href="/mmistakes/mm-remote-theme-test/blob/master/assets/images/bio-photo.jpg">bio-photo.jpg</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+                  <a data-pjax="true" title="Add bio image" class="message" href="/mmistakes/mm-remote-theme-test/commit/74cad9f37e8f467abb65a58f011db49a706ad591">Add bio image</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time-ago datetime="2017-11-07T21:16:59Z">Nov 8, 2017</time-ago></span>
+          </td>
+        </tr>
+    </tbody>
+  </table>
+
+</div>
+
+
+
+  
 
 
 
@@ -776,7 +804,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.27552s from unicorn-754ffd94d4-kh75b">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.17788s from unicorn-5b969cc874-dzlxl">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
