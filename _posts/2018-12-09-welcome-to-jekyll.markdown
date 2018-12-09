@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Welcome to yoyo!"
 date:   2018-12-09 21:37:36 +0530
 categories: jekyll update
 ---
