@@ -24,6 +24,8 @@ url: https://aditi-mishra.github.io # the base hostname & protocol for your site
 twitter_username: aditi
 github_username:  aditi-mishra
 minimal_mistakes_skin: default
+repository: "aditi-mishra/website"
+
 
 # Build settings
 markdown: kramdown
