@@ -42,6 +42,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+author:
+  name   : "Aditi Mishra"
+  avatar : "/assets/images/pup.jpg"
+  bio    : "Hello everyone."
+  email  : 'aditimishraice@gmail.com'
+uri    : "https://mademistakes.com"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
