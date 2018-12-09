@@ -46,7 +46,7 @@ author:
   name   : "Aditi Mishra"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello everyone."
-  email  : "aditimishraice@gmail.com"
+  email  : 
 uri    : "https://github.com/aditi-mishra"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
