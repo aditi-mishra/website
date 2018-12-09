@@ -1,5 +1,5 @@
 ---
-permalink: /contact_me/
+permalink: /about/
 ---
 I am a final  year Instrumentation and Control Engineering undergraduate at
  Netaji Subhas Institute Of Technology, Delhi University. I have a wide range of interests,
