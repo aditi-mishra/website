@@ -45,22 +45,20 @@ plugins:
 
 author:
   name: "Aditi Mishra"
-  avatar: "/assets/images/pup.jpg"
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "I am an amazing person."
   location: "India"
   links:
-    - label: "Made Mistakes"
+    - label: "Linked In"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://www.linkedin.com/in/aditi-mishra/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aditi-mishra"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/aditi1000"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
