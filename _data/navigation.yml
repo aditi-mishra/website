@@ -1,0 +1,27 @@
+main:
+  - title: "Welcome"
+    url: /index/
+  - title: "About Me"
+    url: /about_me/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact Me"
+  url: /contact/
+
+#vnkl
+  # - title: "Categories"
+  #   url: /categories/
+   #- title: "Tags"
+  #   url: /tags/
+  # - title: "Pages"
+  #   url: /page-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
