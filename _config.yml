@@ -23,7 +23,7 @@ baseurl: /website # the subpath of your site, e.g. /blog
 url: https://aditi-mishra.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aditi
 github_username:  aditi-mishra
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 
 # Build settings
 markdown: kramdown
@@ -44,10 +44,10 @@ plugins:
 
 
 author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
+  name: "Aditi Mishra"
+  avatar: "/assets/images/pup.jpg"
   bio: "I am an amazing person."
-  location: "Somewhere"
+  location: "India"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
@@ -57,10 +57,10 @@ author:
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/aditi-mishra"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/aditi1000"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
