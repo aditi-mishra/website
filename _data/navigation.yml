@@ -1,12 +1,10 @@
 main:
-  - title: "Welcome"
-    url: /index/
   - title: "About Me"
     url: /about_me/
   - title: "Projects"
     url: /projects/
   - title: "Contact Me"
-  url: /contact/
+    url: /contact/
 
 #vnkl
   # - title: "Categories"
