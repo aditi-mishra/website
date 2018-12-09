@@ -45,9 +45,8 @@ plugins:
 author:
   name   : "Aditi Mishra"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello everyone."
-  email  : 
-uri    : "https://github.com/aditi-mishra"
+   bio    : "Hello everyone."
+  uri    : "https://github.com/aditi-mishra"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
