@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Website
+title: HOME
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my online space. This is a record of all the worthwhile thing i do in my life.
 baseurl: /website # the subpath of your site, e.g. /blog
 url: https://aditi-mishra.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aditi
@@ -48,7 +46,7 @@ plugins:
 author:
   name: "Aditi Mishra"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an amazing person."
+  bio: "Love learning new .Ready for challenge and projects which are totally new."
   location: "India"
   links:
     - label: "Linked In"
