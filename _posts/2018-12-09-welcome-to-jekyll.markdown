@@ -244,7 +244,6 @@ key = waitKey(25);
 }
 return 0;
 }
-#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
 [code-gh]:   https://github.com/aditi-mishra/Face-Detection
