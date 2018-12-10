@@ -1,8 +1,8 @@
 ---
 permalink: /projects/
 ---
-<b>I have worked on varied projects -></b>        
- <a href ="https://github.com/aditi-mishra" style="color:blue; " ><b >Github Page</b></a>
+<b>I have worked on varied projects -></b>  <a href ="https://github.com/aditi-mishra" style="color:blue; " ><b >Github Page</b></a>  
+
 <ul>
   <li><b>Push Notification Android App -> </b> Created a Push Notification application using flask which can push images and text to all Android Application.
   </li>
