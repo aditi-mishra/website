@@ -21,7 +21,7 @@ baseurl: /website # the subpath of your site, e.g. /blog
 url: https://aditi-mishra.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aditi
 github_username:  aditi-mishra
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 repository: "aditi-mishra/website"
 
 
