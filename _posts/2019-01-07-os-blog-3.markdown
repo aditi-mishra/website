@@ -17,7 +17,7 @@ categories: Operating System
 
    Now let’s take a look at Peterson’s Algorithm -
 
-   ![peterson algorithm](/assets/images/peterson.jpg)
+  <img src="{{site.baseurl}}/assets/images/peterson.jpg">
 
 
 <ul>
