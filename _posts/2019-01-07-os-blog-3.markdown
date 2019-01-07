@@ -17,11 +17,11 @@ categories: Operating System
 
    Now let’s take a look at peterson’s Algorithm -
    ![peterson algorithm](/assets/images/peterson.png)
-    <ul>
-    <li> First , p1 sets flag[0] true, then sets turn to j . So that if  P2 wants to enter Critical Section, it can do so.</li>
-    <li> If P1 , P2 try to execute at same time, then turn is first changed to i, then j or it could be vice-versa. But, the important point is, only one of these 2 process is allowed to enter its critical section. The second value gets overwritten.</li>
-     
-    
+
+
+<ul>
+	<li> First , p1 sets flag[0] true, then sets turn to j . So that if  P2 wants to enter Critical Section, it can do so.</li>
+    <li> If P1 , P2 try to execute at same time, then turn is first changed to i, then j or it could be vice-versa. But, the important point is, only one of these 2 process is allowed to enter its critical section. The second value gets overwritten. </li>
 </ul>
 Features of Peterson’s Solution Algorithm -
 <ul>
