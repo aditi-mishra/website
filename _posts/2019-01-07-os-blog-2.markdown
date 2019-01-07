@@ -1,0 +1,37 @@
+---
+layout: single
+title:  "Interprocess Communication in Operating System"
+date:   2019-01-07 21:37:36 +0530
+categories: Operating System
+---
+
+There are 2 types of process -
+<ul>
+        <li> Independent Processes - Processes which do not share data with other processes .</li>
+        <li> Cooperating Processes - Processes that shares data with other processes. </li>
+
+</ul>
+Cooperating process require Interprocess communication (IPC) mechanism.
+Inter Process Communication is the mechanism by which cooperating process share data and information.
+
+There are 2 ways by which Interprocess communication is achieved -
+<ul>
+        <li> Shared memory 	</li>
+        <li> Message Parsing </li>
+    </ul>
+
+Let’s look at few of the important points of each .
+
+Shared Memory
+<ul>
+    <li> A particular region of memory 	is shared between cooperating process. </li>
+    <li> Cooperating process can exchange information by reading and writing data to this shared region. </li>
+    <li> It’s faster than Memory Parsing, as Kernel is required only once, that is, setting up a shared memory . After That, kernel assistance is not required. </li>
+</ul>
+Message Parsing
+<ul>
+    <li> Communication takes place by 	exchanging messages directly between cooperating process.</li>
+    <li> Easy to implement 	</li>
+    <li> Useful for small amount of data. </li>
+    <li> Implemented using System 	Calls, so takes more time than Shared Memory.</li>
+</ul>
