@@ -10,33 +10,40 @@ We already know about Critical section of code from Process synchronization post
 The Critical Section Problem is to design a protocol which processes  use to cooperate .To enter into critical section, a process requests permission through entry section code. After critical section code is executed, then there is  exit section code, to indicate the same.
 
 A critical solution problem satisfies 3 things -
-    - Mutual Exclusion must be preserved.
-    - Progress Requirement must be satisfied.
-    - Bonded waiting time requirement is met.
+<ul>
+    <li> Mutual Exclusion must be preserved. </li>
+    <li> Progress Requirement must be satisfied. </li>
+    <li> Bonded waiting time requirement is met.  </li>
+</ul>
 
 Let’s look at each of these in detail -
-    - Mutual Exclusion is preserved - If a process P1 is executing in its critical section, no other process can execute in critical section.
-    - Process Requirement must be satisfied. If no process is executing in its critical section, then the decision as to which process will go next into executing its critical section code is decided by only those process which are in entry section, that is, not before it. That is the process which are in remainder section can not take part in this decision. Also, this selection has to be made in certain time, it can’t be postponed indefinitely.
-    - Bonded Waiting time requirement is met - If a process A has made a request to enter its critical section, then there is a limit on the number of times , other processes go before into their critical section. So, waiting time, as a result is bonded. After a certain time, the process gets to be in critical Section, doesn’t wait indefinitely.
+<ul>
+    <li> Mutual Exclusion is preserved - If a process P1 is executing in its critical section, no other process can execute in critical section.</li>
+    <li> Process Requirement must be satisfied. If no process is executing in its critical section, then the decision as to which process will go next into executing its critical section code is decided by only those process which are in entry section, that is, not before it. That is the process which are in remainder section can not take part in this decision. Also, this selection has to be made in certain time, it can’t be postponed indefinitely. </li>
+    <li> Bonded Waiting time requirement is met - If a process A has made a request to enter its critical section, then there is a limit on the number of times , other processes go before into their critical section. So, waiting time, as a result is bonded. After a certain time, the process gets to be in critical Section, doesn’t wait indefinitely.</li>
+</ul>
 
 To handle critical section is Operating System, There are 2 ways -
-    - Preemptive Kernel
-    - Non  Preemptive Kernel
-
+<ul>
+    <li> Preemptive Kernel </li>
+    <li> Non  Preemptive Kernel </li>
+</ul>
 Preemptive Kernel -
-    - Allows process to be preempted while it’s running in kernel mode.
-    - Can be prone to race around condition, if poorly designed. So, must be carefully designed .
-    - Difficult to Design for SMP Architecture as in this environment, it’s possible for 2 Kernel -Mode processes to run simultaneously on 2 different processes.
-    - It’s more responsible, as less risk for any process to run indefinitely.
-    - Suitable for Real Time Programming.
-
+<ul>
+    <li> Allows process to be preempted while it’s running in kernel mode. </li>
+    <li> Can be prone to race around condition, if poorly designed. So, must be carefully designed .</li>
+    <li> Difficult to Design for SMP Architecture as in this environment, it’s possible for 2 Kernel -Mode processes to run simultaneously on 2 different processes. </li>
+    <li> It’s more responsible, as less risk for any process to run indefinitely. </li>
+    <li> Suitable for Real Time Programming.</li>
+</ul>
 What is Race Around Condition ?
 If many kernel processes in OS, it may lead to race around condition.
 Eg - Consider a kernel data structure that maintains a list of all open files in system. List is modified if a new file is opened or closed. If 2 process simultaneously try to open files , it may separate updates to list leading to race around condition 
 
 Non Preemptive Kernel -
-    - Does not allow a process running in Kernel Mode to be preempted, that is stopped. Only after the process exits the Kernel Mode by self, will the next process be given the kernel.
-    - Free from Race Around Condition as only 1 process is executed at a time in kernel.
-
+<ul>
+    <li> Does not allow a process running in Kernel Mode to be preempted, that is stopped. Only after the process exits the Kernel Mode by self, will the next process be given the kernel.</li>
+    <li> Free from Race Around Condition as only 1 process is executed at a time in kernel.</li>
+</ul>
 The software based solution to critical section problem is Peterson’s Algorithm, Semaphores, Monitors etc
 The hardware based solution to critical section is exclusive access to memory location, atomic swap etc.
