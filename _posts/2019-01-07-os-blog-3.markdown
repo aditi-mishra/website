@@ -1,0 +1,36 @@
+---
+layout: single
+title:  "Peterson's Algorithm for Critical Section"
+date:   2019-01-07 21:37:36 +0530
+categories: Operating System
+---
+<ul>
+    <li> This is a software based solution to Critical Section Problem. </li>
+    <li> Doesn’t work on modern architectures. </li>
+    <li> It’s for 2 processes which alternate execution between then critical section and remainder section. Say, P1 is the first process and P2 is the second process.</li>
+    <li> The 2 processes should share 2 data items with each other.</li>
+                  int turn  
+                  Boolean flag [2]
+    <li> Turn - It indicates the process who should enter into its critical section.</li>
+    <li> Flag Array - It tells whether a process is ready to enter its critical section. Let flag[0] indicate process P1. If flag[0] = true , then Process P1 is ready to execute in its critical section. flag[1] indicates process P2. If flag[1] = true, then Process P2 is ready to execute in its critical section.</li>
+</ul>
+
+   Now let’s take a look at peterson’s Algorithm -
+     <ul>
+    <li> First , p1 sets flag[0] true, then sets turn to j . So that if  P2 wants to enter Critical Section, it can do so.</li>
+    <li> If P1 , P2 try to execute at same time, then turn is first changed to i, then j or it could be vice-versa. But, the important point is, only one of these 2 process is allowed to enter its critical section. The second value gets overwritten.</li>
+</ul>
+Features of Peterson’s Solution Algorithm -
+<ul>
+    <li> Does not require any special hardware.</li>
+    <li>Uses Busy waiting ( Spinlock ).</li>
+</ul>
+
+What is Race Around Condition ?
+If many kernel processes in OS, it may lead to race around condition.
+Eg - Consider a kernel data structure that maintains a list of all open files in system. List is modified if a new file is opened or closed. If 2 process simultaneously try to open files , it may separate updates to list leading to race around condition 
+
+
+
+
+
