@@ -1,0 +1,27 @@
+---
+layout: single
+title:  "Mutex and Semaphores"
+date:   2019-01-07 21:37:36 +0530
+categories: Operating System
+---
+<ul>
+<li>This is a tool for solving Critical Section Problem.</li>
+<li>It provides Mutual exclusion.</li>
+<li>This is a locking Mechanism, used to synchronize access to a resource.</li>
+<li>Only 1 task acquires the mutex and that task only can release the mutex (lock).</li>
+<li>At any point of time, only one thread can work on entire buffer.</li>
+<li>It protects critical regions and hence prevents race around condition, that is , a process must acquire a lock before entering a critical section.</li>
+<li>This lock is released when a process when a process exits critical section.</li>
+<li>There are 2 function to this -
+	<ul>
+             <li>  Acquire - To acquire the lock</li>
+             <li>  Release - To release the lock after critical section code is finished execution.</li>
+           </ul>
+           </li>
+</ul>
+
+Acquire Definition -
+<img src="{{site.baseurl}}/assets/images/acquire.jpg">
+
+Release Definition -
+<img src="{{site.baseurl}}/assets/images/peterson.jpg">

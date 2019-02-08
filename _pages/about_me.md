@@ -11,12 +11,12 @@ permalink: /about_me/
 
 <b>Skills</b>    
 <ul>
-<li><b>Languages -> Java , C++ (beginner) , C (beginner)</b></li>
-<li><b>Frameworks -></b> Flask, Android development</b></li>
-<li><b>Platforms -></b> Arduino, Eagle CAD Design</b> </li>
-<li><b>Web development -></b>HTML, CSS, Bootstrap (beginner)</b></li>
+<li><b>Languages -></b> Java , C++ (beginner) , C (beginner)</li>
+<li><b>Frameworks -></b> Flask, Android development</li>
+<li><b>Platforms -></b> Arduino, Eagle PCB design </li>
+<li><b>Web development -></b>HTML, CSS, Bootstrap (beginner)</li>
 </ul>  
 
 I am a final  year Instrumentation and Control Engineering undergraduate at  Netaji Subhas Institute Of Technology, Delhi University. I have a wide range of interests,and I like working on Software Engineering, Android Development, Machine Laerning and Computer Vision.    
 Apart from coding, I like reading about psychology and watching thriller TV Series.I also enjoy cooking and sewing in my spare time.  
-My interests include watching tv series, writing poems and stories.I also play guitar in my free time and sing horridly.I also am an animal lover.  
+My interests include watching tv series, writing poems and stories.I also play guitar in my free time and sing horribly. 
